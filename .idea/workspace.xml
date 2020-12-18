@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecd5723c-f481-4732-b1fe-d1af6d456588" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../javaportingrepo/src/main/java/com/trackimo/server/controller/location/LocationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaportingrepo/src/main/java/com/trackimo/server/controller/location/LocationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaportingrepo/src/main/resources/dbupdate/liquibase-trackimo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaportingrepo/src/main/resources/dbupdate/liquibase-trackimo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaserverrepo/src/main/resources/swagger-description.md" beforeDir="false" afterPath="$PROJECT_DIR$/../javaserverrepo/src/main/resources/swagger-description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rings-service/src/main/java/com/trackimo/rings/controller/RingsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rings-service/src/main/java/com/trackimo/rings/controller/RingsController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="/usr/bin/git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lpBOpChHlODb85SA3phCyxv5Gm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../back-boss.git" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecd5723c-f481-4732-b1fe-d1af6d456588" name="Default Changelist" comment="" />
+      <created>1608284124296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608284124296</updated>
+      <workItem from="1608284125573" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
