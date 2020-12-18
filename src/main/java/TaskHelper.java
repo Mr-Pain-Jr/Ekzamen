@@ -1,5 +1,5 @@
 public class TaskHelper {
-    public static int getSumProgression(int a1, int n) {
+    public Integer getSumProgression(int a1, int n) {
         int sum = 0;
         int aN = 0;
         for (int i = a1; i < n; i++) {
